@@ -8,9 +8,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/sideshow/apns2"
-	"github.com/sideshow/apns2/certificate"
 	"github.com/stretchr/testify/assert"
+	"github.com/xinxin001/apns2"
+	"github.com/xinxin001/apns2/certificate"
 )
 
 func TestNewClientManager(t *testing.T) {

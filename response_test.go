@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"testing"
 
-	apns "github.com/sideshow/apns2"
 	"github.com/stretchr/testify/assert"
+	apns "github.com/xinxin001/apns2"
 )
 
 // Unit Tests
